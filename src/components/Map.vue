@@ -34,7 +34,7 @@
       </svg>
       <Tooltip
         :province="province"
-        :style="{ top: top + 'px', left: left + 'px' }"
+        :style="{ top: top + 'px' }"
         v-if="showTooltip" />
     </div>
 </template>
@@ -56,8 +56,7 @@
       return {
         province: 'buenos-aires',
         showTooltip: false,
-        top: 0,
-        left: 0
+        top: 0
       }
     },
     methods: {
@@ -66,7 +65,6 @@
         this.province = newProvince
         this.showTooltip = true
         this.top = event.pageY + 40
-        this.left = event.pageX
       }
     }
   }

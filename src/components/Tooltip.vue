@@ -17,7 +17,12 @@
 
 <style scoped>
   .tooltip-container {
+    background: #ffffff;
+    border: 1px solid #f38eb0;
+    height: 150px;
+    left: 400px;
+    padding: 20px;
     position: absolute;
-    top: 0;
+    width: 300px;
   }
 </style>
