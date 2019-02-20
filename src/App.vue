@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Nav :activeTopic="activeTopic" :changeTopic="changeTopic"/>
-    <Map />
+    <Map :activeTopic="activeTopic" />
   </div>
 </template>
 
