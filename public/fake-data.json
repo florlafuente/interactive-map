@@ -1,9 +1,111 @@
 {
-  "topic": "Cupo travesti-trans",
+  "topic": "cupo-trans",
   "data": {
     "map": {
       "provinces": {
         "buenos_aires": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "41",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "catamarca": {
           "indicators": [
             {
               "name": "Tasa de travesticidios",
@@ -105,7 +207,2149 @@
           ],
           "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
         },
-        "catamarca": {
+        "caba": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "chaco": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates": [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "chubut": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "cordoba": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "corrientes": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "formosa": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "entre-rios": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "jujuy": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "la_pampa": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "la_rioja": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "mendoza": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "misiones": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "neuquen": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "rio_negro": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "salta": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "santa_cruz": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "santiago_del_estero": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "santa_fe": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "san_juan": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "san_luis": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "tierra_del_fuego": {
+          "indicators": [
+            {
+              "name": "Tasa de travesticidios",
+              "value": "40",
+              "type": "int"
+            }
+          ],
+          "laws": [
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lanús"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Morón"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Chivilcoy"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Tandil"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "San Miguel"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Campana"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Azul"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Lomas de Zamora"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "3 de Febrero"
+            },
+            {
+              "title": "Cupo laboral travesti-trans",
+              "state": "adhesión",
+              "level": "municipal",
+              "city": "Mar del Plata"
+            }
+          ],
+          "candidates" : [
+            {
+              "name": "Juan Perez",
+              "charge": "Diputado",
+              "party": "Frente de Izquierda",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/ndelcano.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            },
+            {
+              "name": "Juana Perez",
+              "charge": "Diputada",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/nabdaladem.jpg",
+              "frase": "No creo que sea correcta la implementación del cupo laboral trans"
+            },
+            {
+              "name": "Pedro Rodriguez",
+              "charge": "Senador",
+              "party": "Cambiemos",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/wallende.jpg",
+              "frase": "Estoy a favor del cupo laboral trans porque..."
+            },
+            {
+              "name": "Federica Rodriguez",
+              "charge": "Senadora",
+              "party": "Frente para la Victoria",
+              "img": "https://www4.hcdn.gob.ar/imgs/cuadradas/lalonso.jpg",
+              "frase": "Sobre el cupo laboral pienso que bla bla bla "
+            }
+          ],
+          "contextual_data": "En la provincia de Buenos Aires bla bla bla bla bla bla bla bla bla bla bla bla"
+        },
+        "tucuman": {
           "indicators": [
             {
               "name": "Tasa de travesticidios",
