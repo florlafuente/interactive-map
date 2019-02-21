@@ -35,11 +35,14 @@
       <Tooltip
         :province="province"
         :style="{ top: top + 'px' }"
+        :info="info"
         v-if="showTooltip" />
     </div>
 </template>
 
 <script>
+  import * as d3 from 'd3'
+  import axios from 'axios'
   import Tooltip from './Tooltip.vue'
 
   export default {
@@ -56,8 +59,12 @@
       return {
         province: 'buenos-aires',
         showTooltip: false,
-        top: 0
+        top: 0,
+        info: null
       }
+    },
+    created () {
+      this.fetchData()
     },
     methods: {
       changeProvince: function(event) {
@@ -65,6 +72,14 @@
         this.province = newProvince
         this.showTooltip = true
         this.top = event.pageY + 40
+      },
+      fetchData: function() {
+        axios.get('/fake-data.json')
+          .then((response) => response.data)
+          .then((response) => {
+            this.info = response
+          })
+          .catch((error) => console.error(error))
       }
     }
   }

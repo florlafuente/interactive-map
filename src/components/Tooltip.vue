@@ -10,6 +10,9 @@
     props: {
       province: {
         type: String
+      },
+      info: {
+        type: Object
       }
     }
   }
